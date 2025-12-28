@@ -2,10 +2,7 @@
 
 ## LocaNotify (React.js)
 
-**Group Members — 13 (Code Red)**  
-1. Laxmi Harika Bibireddy  
-2. Lingireddy Jayanth Eswar Reddy  
-3. Sowmya Kanjula
+**Group Members — 13 (Code Red)** — [Group roster link](#)
 
 ---
 
