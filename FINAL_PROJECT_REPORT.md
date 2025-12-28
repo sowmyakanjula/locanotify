@@ -2,10 +2,6 @@
 
 ## LocaNotify (React.js)
 
-**Group Members — 13 (Code Red)** — [Group roster link](#)
-
----
-
 ## Introduction / Motivation
 Imagine getting a reminder to check your tire pressure the moment you park near an auto repair shop, or a nudge to pick up eggs when you step inside a grocery store. LocaNotify delivers this experience as a mobile-first web application built with **React.js**, **Tailwind CSS**, and **REST APIs**. The app delivers real-time, location-aware notifications with a responsive UI that stays smooth on phones, tablets, and desktops.
 
