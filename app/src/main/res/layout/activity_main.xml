@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".views.MainActivity"
-    android:background="@color/colorBackground">
+    android:background="@color/color_background">
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/logout"
@@ -58,7 +58,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:layout_margin="20dp"
-        android:backgroundTint="@color/colorBackground"
+        android:backgroundTint="@color/color_background"
         android:src="@drawable/baseline_add_24"
         app:tint="@color/white" />
 
