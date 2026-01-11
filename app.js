@@ -9,7 +9,7 @@ function App() {
         <div className="container hero__content">
           <div className="brand">
             <div className="brand__logo" aria-hidden="true">
-              SP
+              <img className="brand__logo-icon" src="trash.svg" alt="" />
             </div>
             <div>
               <p className="brand__tag">SmartPush</p>
