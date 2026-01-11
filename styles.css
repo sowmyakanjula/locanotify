@@ -65,10 +65,17 @@ a {
   border-radius: 16px;
   background: var(--primary);
   color: #fff;
-  display: grid;
-  place-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-weight: 700;
   letter-spacing: 0.08em;
+}
+
+.brand__logo-icon {
+  width: 30px;
+  height: 30px;
+  color: #fff;
 }
 
 .brand__tag {
