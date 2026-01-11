@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LocaNotify" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorBackground</item>
+    </style>
+
+    <style name="Theme.LocaNotify" parent="Base.Theme.LocaNotify" />
+</resources>
