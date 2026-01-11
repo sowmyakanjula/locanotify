@@ -75,6 +75,12 @@ a {
   display: block;
 }
 
+.brand__logo-icon {
+  width: 30px;
+  height: 30px;
+  color: #fff;
+}
+
 .brand__tag {
   font-size: 0.85rem;
   color: var(--muted);
